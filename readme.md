@@ -29,8 +29,8 @@ Upon completion of the course, the students can:
 
 1.	[Overview of Intelligent Systems](https://drive.google.com/uc?id=1gJCnP8UehLnTk1N18kwY9-YV7SIuFrNA)
 2.	Review of Python Fundamentals
-    - [Python Review – Part 1](https://drive.google.com/uc?id=1DoDxGXjC7UDJlrRxefvZMrTuhCqmEr04) | [Notebook](02.1_review.ipynb)
-    - [Python Review – Part 2](https://drive.google.com/uc?id=1qEVWToDcVi9CjCFw5WnhGGpjQ4lrubtK) | [Notebook](02.2_review.ipynb)
+    - [Python Review – Part 1](https://drive.google.com/uc?id=1DoDxGXjC7UDJlrRxefvZMrTuhCqmEr04) | [Notebook](code/02.1_review.ipynb)
+    - [Python Review – Part 2](https://drive.google.com/uc?id=1qEVWToDcVi9CjCFw5WnhGGpjQ4lrubtK) | [Notebook](code/02.2_review.ipynb)
 3.	Basics of Machine Learning
     - [Basics of Machine Learning](https://drive.google.com/uc?id=10gMO-2mhTiIzugEVqU0mav7corZN0cM3)
     - [Normalization](https://drive.google.com/uc?id=1t8s-bl4mo-pFxuZnnbpnffOtOUxyPteP)
@@ -39,17 +39,17 @@ Upon completion of the course, the students can:
 4.	[Supervised Learning: Regression](https://drive.google.com/uc?id=1oDQXWjDHJiIykUMnFdn_vJO0CL_JojXh)
 5.	Supervised Learning: Classification
     - [Naive Bayes Classifier](https://drive.google.com/uc?id=10-pkLMX2YTibRnz1egmeWA_Venos9rn8)
-    - [K-Nearest Neighbor Classifier](https://drive.google.com/uc?id=1GwWi092xXYgPSEvIVgRjlAB2dokfLhVj) | [Notebook](05.2_knn_iris.ipynb)
+    - [K-Nearest Neighbor Classifier](https://drive.google.com/uc?id=1GwWi092xXYgPSEvIVgRjlAB2dokfLhVj) | [Notebook](code/05.2_knn_iris.ipynb)
 6.	Unsupervised Learning
-    - [K-Means Clustering](https://drive.google.com/uc?id=13b6PGG02gZ1Ui4pseh7XvIKpJ3jeJMHy) | [Notebook](06.1_k-means_iris.ipynb)
-    - [EM Algorithm for Mixture Models](https://drive.google.com/uc?id=1cRQGP6yt3yCYRYlXm8d4-2F1KOgNTRDU) | [Notebook](06.2_em_calories.ipynb)
+    - [K-Means Clustering](https://drive.google.com/uc?id=13b6PGG02gZ1Ui4pseh7XvIKpJ3jeJMHy) | [Notebook](code/06.1_k-means_iris.ipynb)
+    - [EM Algorithm for Mixture Models](https://drive.google.com/uc?id=1cRQGP6yt3yCYRYlXm8d4-2F1KOgNTRDU) | [Notebook](code/06.2_em_calories.ipynb)
 7.	[Supervised Learning: Decision Trees](https://drive.google.com/uc?id=1AL3hF76WRIneoQvHZPjZBzgMeB0nw_2I)
 8.	Ensemble Learning
     - [Overview of Ensemble Learning](https://drive.google.com/uc?id=1g_Ivhp8ltIHvCPMXoU0ROkiGgQATVCZ2)
     - [Random Forest](https://drive.google.com/uc?id=1Y1LK309HyNX3l3Zf8jyvhCZhmu5Z2bny)
 9.	Model Optimization Techniques
-    - [Cross Validation](https://drive.google.com/uc?id=1TYJ8wNe1QZp7YbCQCWQdx9QicjFIM2ft) | [Notebook](09.1_kfold.ipynb)
-    - [Grid Search Tuning](https://drive.google.com/uc?id=1n4g7ehQ2EaotYV0_g4mMTshQzvZdY4_D) | [Notebook](09.2_gridsearchcv.ipynb)
+    - [Cross Validation](https://drive.google.com/uc?id=1TYJ8wNe1QZp7YbCQCWQdx9QicjFIM2ft) | [Notebook](code/09.1_kfold.ipynb)
+    - [Grid Search Tuning](https://drive.google.com/uc?id=1n4g7ehQ2EaotYV0_g4mMTshQzvZdY4_D) | [Notebook](code/09.2_gridsearchcv.ipynb)
 
 ## Sample Case Studies
 
