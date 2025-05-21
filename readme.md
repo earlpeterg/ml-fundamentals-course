@@ -54,6 +54,7 @@ Upon completion of the course, the students can:
 ## Sample Case Studies
 
 1. [Titanic using Random Forest and Grid Search CV](https://www.kaggle.com/code/earlpeterjg/titanic-using-random-forest-and-grid-search-cv)
+2. [Housing Prices Competition using Random Forest](https://www.kaggle.com/code/earlpeterjg/housing-prices-competition-using-random-forest)
 
 ## Primary References
 
