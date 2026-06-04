@@ -1,6 +1,6 @@
-# Machine Learning Fundamentals
+# Machine Learning Fundamentals Course Materials
 
-Machine Learning Fundamentals (2025) by [Earl Peter J. Gangoso](https://www.earlpeter.com) is licensed under [CC BY-NC 4.0](LICENSE). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
+This repository provides the course materials for Machine Learning Fundamentals (2025) by [Earl Peter J. Gangoso](https://www.earlpeter.com), licensed under [CC BY-NC 4.0](LICENSE). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
 
 **Creative Commons Attribution-NonCommercial 4.0 International**: This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only.
 
@@ -18,29 +18,29 @@ Upon completion of the course, the students can:
 
 ## Course Contents
 
-1.	[Overview of Intelligent Systems](https://drive.google.com/uc?id=1gJCnP8UehLnTk1N18kwY9-YV7SIuFrNA)
+1.	[Overview of Intelligent Systems (PDF)](https://drive.google.com/uc?id=1gJCnP8UehLnTk1N18kwY9-YV7SIuFrNA)
 2.	Review of Python Fundamentals
-    - [Python Review – Part 1](https://drive.google.com/uc?id=1DoDxGXjC7UDJlrRxefvZMrTuhCqmEr04) | [Notebook](code/02.1_review.ipynb)
-    - [Python Review – Part 2](https://drive.google.com/uc?id=1qEVWToDcVi9CjCFw5WnhGGpjQ4lrubtK) | [Notebook](code/02.2_review.ipynb)
+    - [Python Review – Part 1 (PDF)](https://drive.google.com/uc?id=1DoDxGXjC7UDJlrRxefvZMrTuhCqmEr04) | [Notebook](code/02.1_review.ipynb)
+    - [Python Review – Part 2 (PDF)](https://drive.google.com/uc?id=1qEVWToDcVi9CjCFw5WnhGGpjQ4lrubtK) | [Notebook](code/02.2_review.ipynb)
 3.	Basics of Machine Learning
-    - [Basics of Machine Learning](https://drive.google.com/uc?id=10gMO-2mhTiIzugEVqU0mav7corZN0cM3)
-    - [Normalization](https://drive.google.com/uc?id=1t8s-bl4mo-pFxuZnnbpnffOtOUxyPteP)
-    - [Discretizer](https://drive.google.com/uc?id=1uGU8eEZOvwx8bAtbioOFrulxPo-5ex4A)
-    - [Model Evaluation](https://drive.google.com/uc?id=1iTeutPyERe4ytPf1p8fxxYAtM1fjAhBU)
-4.	[Supervised Learning: Regression](https://drive.google.com/uc?id=1oDQXWjDHJiIykUMnFdn_vJO0CL_JojXh)
+    - [Basics of Machine Learning (PDF)](https://drive.google.com/uc?id=10gMO-2mhTiIzugEVqU0mav7corZN0cM3)
+    - [Normalization (PDF)](https://drive.google.com/uc?id=1t8s-bl4mo-pFxuZnnbpnffOtOUxyPteP)
+    - [Discretizer (PDF)](https://drive.google.com/uc?id=1uGU8eEZOvwx8bAtbioOFrulxPo-5ex4A)
+    - [Model Evaluation (PDF)](https://drive.google.com/uc?id=1iTeutPyERe4ytPf1p8fxxYAtM1fjAhBU)
+4.	[Supervised Learning: Regression (PDF)](https://drive.google.com/uc?id=1oDQXWjDHJiIykUMnFdn_vJO0CL_JojXh)
 5.	Supervised Learning: Classification
-    - [Naive Bayes Classifier](https://drive.google.com/uc?id=10-pkLMX2YTibRnz1egmeWA_Venos9rn8)
-    - [K-Nearest Neighbor Classifier](https://drive.google.com/uc?id=1GwWi092xXYgPSEvIVgRjlAB2dokfLhVj) | [Notebook](code/05.2_knn_iris.ipynb)
+    - [Naive Bayes Classifier (PDF)](https://drive.google.com/uc?id=10-pkLMX2YTibRnz1egmeWA_Venos9rn8)
+    - [K-Nearest Neighbor Classifier (PDF)](https://drive.google.com/uc?id=1GwWi092xXYgPSEvIVgRjlAB2dokfLhVj) | [Notebook](code/05.2_knn_iris.ipynb)
 6.	Unsupervised Learning
-    - [K-Means Clustering](https://drive.google.com/uc?id=13b6PGG02gZ1Ui4pseh7XvIKpJ3jeJMHy) | [Notebook](code/06.1_k-means_iris.ipynb)
-    - [EM Algorithm for Mixture Models](https://drive.google.com/uc?id=1cRQGP6yt3yCYRYlXm8d4-2F1KOgNTRDU) | [Notebook](code/06.2_em_calories.ipynb)
-7.	[Supervised Learning: Decision Trees](https://drive.google.com/uc?id=1AL3hF76WRIneoQvHZPjZBzgMeB0nw_2I)
+    - [K-Means Clustering (PDF)](https://drive.google.com/uc?id=13b6PGG02gZ1Ui4pseh7XvIKpJ3jeJMHy) | [Notebook](code/06.1_k-means_iris.ipynb)
+    - [EM Algorithm for Mixture Models (PDF)](https://drive.google.com/uc?id=1cRQGP6yt3yCYRYlXm8d4-2F1KOgNTRDU) | [Notebook](code/06.2_em_calories.ipynb)
+7.	[Supervised Learning: Decision Trees (PDF)](https://drive.google.com/uc?id=1AL3hF76WRIneoQvHZPjZBzgMeB0nw_2I)
 8.	Ensemble Learning
-    - [Overview of Ensemble Learning](https://drive.google.com/uc?id=1g_Ivhp8ltIHvCPMXoU0ROkiGgQATVCZ2)
-    - [Random Forest](https://drive.google.com/uc?id=1Y1LK309HyNX3l3Zf8jyvhCZhmu5Z2bny)
+    - [Overview of Ensemble Learning (PDF)](https://drive.google.com/uc?id=1g_Ivhp8ltIHvCPMXoU0ROkiGgQATVCZ2)
+    - [Random Forest (PDF)](https://drive.google.com/uc?id=1Y1LK309HyNX3l3Zf8jyvhCZhmu5Z2bny)
 9.	Model Optimization Techniques
-    - [Cross Validation](https://drive.google.com/uc?id=1TYJ8wNe1QZp7YbCQCWQdx9QicjFIM2ft) | [Notebook](code/09.1_kfold.ipynb)
-    - [Grid Search Tuning](https://drive.google.com/uc?id=1n4g7ehQ2EaotYV0_g4mMTshQzvZdY4_D) | [Notebook](code/09.2_gridsearchcv.ipynb)
+    - [Cross Validation (PDF)](https://drive.google.com/uc?id=1TYJ8wNe1QZp7YbCQCWQdx9QicjFIM2ft) | [Notebook](code/09.1_kfold.ipynb)
+    - [Grid Search Tuning (PDF)](https://drive.google.com/uc?id=1n4g7ehQ2EaotYV0_g4mMTshQzvZdY4_D) | [Notebook](code/09.2_gridsearchcv.ipynb)
 
 ## Sample Case Studies
 
